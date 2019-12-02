@@ -1,4 +1,4 @@
-# Loan Defaulter - Decision Tree
+# Loan Defaulter Classification using Decision Tree Algorithm
 
 ## Problem Statement
 Using Decision Tree model, classify whether or not the borrower paid back their loan in full.</br>
